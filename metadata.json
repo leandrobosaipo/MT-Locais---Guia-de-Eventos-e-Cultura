@@ -1,0 +1,7 @@
+{
+  "name": "MT Locais - Guia de Eventos e Cultura",
+  "description": "Mapa interativo de locais de eventos, cultura e lazer em Mato Grosso.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
